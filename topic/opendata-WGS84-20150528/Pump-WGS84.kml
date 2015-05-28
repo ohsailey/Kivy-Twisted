@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="OPENDATA_97_KML" id="OPENDATA_97_KML">
+	<SimpleField name="PUMP_ID" type="string"></SimpleField>
+	<SimpleField name="RIVER" type="string"></SimpleField>
+	<SimpleField name="SET_DATE" type="string"></SimpleField>
+	<SimpleField name="WORKMAN" type="string"></SimpleField>
+	<SimpleField name="TEL" type="string"></SimpleField>
+	<SimpleField name="ADDRESS" type="string"></SimpleField>
+	<SimpleField name="P_NAME" type="string"></SimpleField>
+</Schema>
+<Folder><name>OPENDATA_97_KML</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0020</SimpleData>
+		<SimpleData name="RIVER">磺港溪</SimpleData>
+		<SimpleData name="SET_DATE">80/03/01</SimpleData>
+		<SimpleData name="WORKMAN">劉財元</SimpleData>
+		<SimpleData name="TEL">2892-3515</SimpleData>
+		<SimpleData name="ADDRESS">北投區磺港路253號</SimpleData>
+		<SimpleData name="P_NAME">奇岩</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.50331699062249,25.124110925979302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0019</SimpleData>
+		<SimpleData name="RIVER">磺溪</SimpleData>
+		<SimpleData name="SET_DATE">76/06/01</SimpleData>
+		<SimpleData name="WORKMAN">郭達元</SimpleData>
+		<SimpleData name="TEL">2822-1514</SimpleData>
+		<SimpleData name="ADDRESS">北投區明德路150巷19號</SimpleData>
+		<SimpleData name="P_NAME">東華</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.52222855338545,25.109850288040331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0014</SimpleData>
+		<SimpleData name="RIVER">雙溪</SimpleData>
+		<SimpleData name="SET_DATE">71/05/01</SimpleData>
+		<SimpleData name="WORKMAN">邱泰樺</SimpleData>
+		<SimpleData name="TEL">2837-0293</SimpleData>
+		<SimpleData name="ADDRESS">士林區文昌路212號之2</SimpleData>
+		<SimpleData name="P_NAME">文昌</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.51967250127598,25.100149442691524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0016</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">81/01/01</SimpleData>
+		<SimpleData name="WORKMAN">江金山</SimpleData>
+		<SimpleData name="TEL">2834-2024</SimpleData>
+		<SimpleData name="ADDRESS">士林區通河東街二段150號</SimpleData>
+		<SimpleData name="P_NAME">士林</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.51118079925192,25.09612918159289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0037</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">94/04/01</SimpleData>
+		<SimpleData name="WORKMAN">李朝宗</SimpleData>
+		<SimpleData name="TEL">2812-8956</SimpleData>
+		<SimpleData name="ADDRESS">士林區通河西街二段96號</SimpleData>
+		<SimpleData name="P_NAME">社子</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.50861490730728,25.092753980964702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0036</SimpleData>
+		<SimpleData name="RIVER">淡水河</SimpleData>
+		<SimpleData name="SET_DATE">94/04/01</SimpleData>
+		<SimpleData name="WORKMAN">陳錫源</SimpleData>
+		<SimpleData name="TEL">2811-8627</SimpleData>
+		<SimpleData name="ADDRESS">士林區葫蘆街81-1號</SimpleData>
+		<SimpleData name="P_NAME">迪化</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.50776848030091,25.080172178309621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0012</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">92/04/01</SimpleData>
+		<SimpleData name="WORKMAN">李國成</SimpleData>
+		<SimpleData name="TEL">2881-9428</SimpleData>
+		<SimpleData name="ADDRESS">士林區通河街325-1號</SimpleData>
+		<SimpleData name="P_NAME">劍潭</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.51828457682637,25.08126990656374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0015</SimpleData>
+		<SimpleData name="RIVER">雙溪</SimpleData>
+		<SimpleData name="SET_DATE">71/05/01</SimpleData>
+		<SimpleData name="WORKMAN">廖文煜</SimpleData>
+		<SimpleData name="TEL">2833-3231</SimpleData>
+		<SimpleData name="ADDRESS">士林區中山北路六段2巷1號</SimpleData>
+		<SimpleData name="P_NAME">福林</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5261457015701,25.102568812822572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0013</SimpleData>
+		<SimpleData name="RIVER">雙溪</SimpleData>
+		<SimpleData name="SET_DATE">71/05/01</SimpleData>
+		<SimpleData name="WORKMAN">李基地</SimpleData>
+		<SimpleData name="TEL">2837-2806</SimpleData>
+		<SimpleData name="ADDRESS">士林區至誠路二段51巷2號</SimpleData>
+		<SimpleData name="P_NAME">芝山</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.52817382286366,25.101112901064155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0018</SimpleData>
+		<SimpleData name="RIVER">雙溪</SimpleData>
+		<SimpleData name="SET_DATE">84/05/01</SimpleData>
+		<SimpleData name="WORKMAN">曹柏青</SimpleData>
+		<SimpleData name="TEL">2836-5794</SimpleData>
+		<SimpleData name="ADDRESS">士林區福志路80巷9號旁</SimpleData>
+		<SimpleData name="P_NAME">福德</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.52888198167797,25.099361407424727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0007</SimpleData>
+		<SimpleData name="RIVER">新生大排</SimpleData>
+		<SimpleData name="SET_DATE">89/12/01</SimpleData>
+		<SimpleData name="WORKMAN">江培宏</SimpleData>
+		<SimpleData name="TEL">2502-7320</SimpleData>
+		<SimpleData name="ADDRESS">中山區新生北路三段158號</SimpleData>
+		<SimpleData name="P_NAME">圓山</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.52739330167698,25.071348005900514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0010</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">71/11/01</SimpleData>
+		<SimpleData name="WORKMAN">盧其全</SimpleData>
+		<SimpleData name="TEL">2502-7320</SimpleData>
+		<SimpleData name="ADDRESS">中山區濱江街3號</SimpleData>
+		<SimpleData name="P_NAME">建國</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.52891116931839,25.072418444271122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0011</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">88/05/01</SimpleData>
+		<SimpleData name="WORKMAN">李毓鱗</SimpleData>
+		<SimpleData name="TEL">2502-7320</SimpleData>
+		<SimpleData name="ADDRESS">中山區濱江街3號</SimpleData>
+		<SimpleData name="P_NAME">新生</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.52836735015526,25.07219661494717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0009</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">90/05/01</SimpleData>
+		<SimpleData name="WORKMAN">楊三郎</SimpleData>
+		<SimpleData name="TEL">2505-3676</SimpleData>
+		<SimpleData name="ADDRESS">中山區濱江街97號</SimpleData>
+		<SimpleData name="P_NAME">中山</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.53415822342134,25.07392405803288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0035</SimpleData>
+		<SimpleData name="RIVER">淡水河</SimpleData>
+		<SimpleData name="SET_DATE">89/06/01</SimpleData>
+		<SimpleData name="WORKMAN">紀煌坤</SimpleData>
+		<SimpleData name="TEL">2557-6631</SimpleData>
+		<SimpleData name="ADDRESS">大同區環河北路一段208號</SimpleData>
+		<SimpleData name="P_NAME">六館</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5081585264942,25.057252724661318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0034</SimpleData>
+		<SimpleData name="RIVER">淡水河</SimpleData>
+		<SimpleData name="SET_DATE">94/10/01</SimpleData>
+		<SimpleData name="WORKMAN">陳泓銘</SimpleData>
+		<SimpleData name="TEL">2559-7716</SimpleData>
+		<SimpleData name="ADDRESS">萬華區環河北路一段21-1號</SimpleData>
+		<SimpleData name="P_NAME">忠孝</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.50635247738563,25.049885774754035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0043</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">92/02/01</SimpleData>
+		<SimpleData name="WORKMAN">吳三元</SimpleData>
+		<SimpleData name="TEL">2532-4611</SimpleData>
+		<SimpleData name="ADDRESS">中山區大直明水路397巷（堤防邊）</SimpleData>
+		<SimpleData name="P_NAME">大直</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.54742270979027,25.077534713461759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0047</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">85/02/01</SimpleData>
+		<SimpleData name="WORKMAN">劉天雄</SimpleData>
+		<SimpleData name="TEL">2532-2654</SimpleData>
+		<SimpleData name="ADDRESS">中山區敬業三路196號對面（堤防邊）</SimpleData>
+		<SimpleData name="P_NAME">北安</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.55582278183657,25.077806055143771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0008</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">87/05/01</SimpleData>
+		<SimpleData name="WORKMAN">林昇瑩</SimpleData>
+		<SimpleData name="TEL">2501-2571</SimpleData>
+		<SimpleData name="ADDRESS">中山區濱江街353號</SimpleData>
+		<SimpleData name="P_NAME">濱江</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.54970939011686,25.072510208186134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0046</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">85/03/01</SimpleData>
+		<SimpleData name="WORKMAN">周大偉</SimpleData>
+		<SimpleData name="TEL">2532-4385</SimpleData>
+		<SimpleData name="ADDRESS">中山區基湖路168號</SimpleData>
+		<SimpleData name="P_NAME">環山</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.56269176004743,25.076760770863213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0006</SimpleData>
+		<SimpleData name="RIVER">新生大排</SimpleData>
+		<SimpleData name="SET_DATE">76/01/01</SimpleData>
+		<SimpleData name="WORKMAN">李華元</SimpleData>
+		<SimpleData name="TEL">2502-7320</SimpleData>
+		<SimpleData name="ADDRESS">中山區新生北路二段141號</SimpleData>
+		<SimpleData name="P_NAME">錦州</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.52779476751968,25.061422516767884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0005</SimpleData>
+		<SimpleData name="RIVER">新生大排</SimpleData>
+		<SimpleData name="SET_DATE">94/09/01</SimpleData>
+		<SimpleData name="WORKMAN">李華元</SimpleData>
+		<SimpleData name="TEL">2502-7320</SimpleData>
+		<SimpleData name="ADDRESS">中山區新生北路二段119號</SimpleData>
+		<SimpleData name="P_NAME">民權</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.52771327340062,25.058853968325803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0004</SimpleData>
+		<SimpleData name="RIVER">新生大排</SimpleData>
+		<SimpleData name="SET_DATE">87/03/01</SimpleData>
+		<SimpleData name="WORKMAN">楊昆衡</SimpleData>
+		<SimpleData name="TEL">2502-7320</SimpleData>
+		<SimpleData name="ADDRESS">中山區新生北路二段86號</SimpleData>
+		<SimpleData name="P_NAME">民生</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.52729764251626,25.058359171377454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0003</SimpleData>
+		<SimpleData name="RIVER">新生大排</SimpleData>
+		<SimpleData name="SET_DATE">68/12/01</SimpleData>
+		<SimpleData name="WORKMAN">余新民</SimpleData>
+		<SimpleData name="TEL">2502-7320</SimpleData>
+		<SimpleData name="ADDRESS">中山區新生北路二段21號</SimpleData>
+		<SimpleData name="P_NAME">長春</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.52758625505814,25.053395309873618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0002</SimpleData>
+		<SimpleData name="RIVER">新生大排</SimpleData>
+		<SimpleData name="SET_DATE">90/07/01</SimpleData>
+		<SimpleData name="WORKMAN">余新民</SimpleData>
+		<SimpleData name="TEL">2502-7320</SimpleData>
+		<SimpleData name="ADDRESS">中山區新生北路南京東路口</SimpleData>
+		<SimpleData name="P_NAME">長安</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.52717285617156,25.052637786497062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0001</SimpleData>
+		<SimpleData name="RIVER">新生大排</SimpleData>
+		<SimpleData name="SET_DATE">76/06/01</SimpleData>
+		<SimpleData name="WORKMAN">高明耀</SimpleData>
+		<SimpleData name="TEL">2502-7320</SimpleData>
+		<SimpleData name="ADDRESS">中山區新生北路一段36之6號</SimpleData>
+		<SimpleData name="P_NAME">林森</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.53175698763749,25.046068428477742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0045</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">84/12/01</SimpleData>
+		<SimpleData name="WORKMAN">陳雲龍</SimpleData>
+		<SimpleData name="TEL">2657-6671</SimpleData>
+		<SimpleData name="ADDRESS">內湖港漧路底（堤防底）</SimpleData>
+		<SimpleData name="P_NAME">港漧</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.57286886756637,25.074412402149665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0048</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">86/12/01</SimpleData>
+		<SimpleData name="WORKMAN">謝譯德</SimpleData>
+		<SimpleData name="TEL">2627-7020</SimpleData>
+		<SimpleData name="ADDRESS">內湖區舊宗路二段166號</SimpleData>
+		<SimpleData name="P_NAME">陽光</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.57385386716906,25.071382825616947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0029</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">81/06/01</SimpleData>
+		<SimpleData name="WORKMAN">陳瑞環</SimpleData>
+		<SimpleData name="TEL">2762-1198</SimpleData>
+		<SimpleData name="ADDRESS">松山區塔悠路351號</SimpleData>
+		<SimpleData name="P_NAME">撫遠</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.56877118218424,25.062252248051358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0044</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">88/01/01</SimpleData>
+		<SimpleData name="WORKMAN">陳萬忠</SimpleData>
+		<SimpleData name="TEL">8791-0838</SimpleData>
+		<SimpleData name="ADDRESS">內湖區新湖二路與堤頂大道交叉口</SimpleData>
+		<SimpleData name="P_NAME">新民權</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.57339004075014,25.060842362756759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0026</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">87/02/01</SimpleData>
+		<SimpleData name="WORKMAN">趙長華</SimpleData>
+		<SimpleData name="TEL">2768-3552</SimpleData>
+		<SimpleData name="ADDRESS">松山區塔悠路155號</SimpleData>
+		<SimpleData name="P_NAME">松山</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.57017561231817,25.054515672129575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0028</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">79/05/01</SimpleData>
+		<SimpleData name="WORKMAN">林永富</SimpleData>
+		<SimpleData name="TEL">2768-9840</SimpleData>
+		<SimpleData name="ADDRESS">松山區松河街14號</SimpleData>
+		<SimpleData name="P_NAME">南京</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5722493709067,25.050677227722549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0038</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">92/01/01</SimpleData>
+		<SimpleData name="WORKMAN">陳麒文</SimpleData>
+		<SimpleData name="TEL">2783-2957</SimpleData>
+		<SimpleData name="ADDRESS">南港區南港路三段268號之1</SimpleData>
+		<SimpleData name="P_NAME">玉成</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.58253739985018,25.052336033221149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0039</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">83/10/01</SimpleData>
+		<SimpleData name="WORKMAN">李鏵輝</SimpleData>
+		<SimpleData name="TEL">2792-1298</SimpleData>
+		<SimpleData name="ADDRESS">內湖區潭美街183號</SimpleData>
+		<SimpleData name="P_NAME">成美</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.58349285275034,25.055451011003225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0040</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">85/08/01</SimpleData>
+		<SimpleData name="WORKMAN">陳鎮贛</SimpleData>
+		<SimpleData name="TEL">2788-7574</SimpleData>
+		<SimpleData name="ADDRESS">南港區重陽路57巷與向陽路258巷交叉口</SimpleData>
+		<SimpleData name="P_NAME">成功</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.59618958410697,25.058628251068196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0041</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">88/10/01</SimpleData>
+		<SimpleData name="WORKMAN">蕭豐澤</SimpleData>
+		<SimpleData name="TEL">2794-4238</SimpleData>
+		<SimpleData name="ADDRESS">內湖區安美街38號</SimpleData>
+		<SimpleData name="P_NAME">長壽</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.59629554209017,25.060860710367184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0042</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">85/08/01</SimpleData>
+		<SimpleData name="WORKMAN">馮  波</SimpleData>
+		<SimpleData name="TEL">2794-8126</SimpleData>
+		<SimpleData name="ADDRESS">內湖區潭美街896號</SimpleData>
+		<SimpleData name="P_NAME">南湖</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.61081238378428,25.063463970832782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0049</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">86/05/01</SimpleData>
+		<SimpleData name="WORKMAN">俞明華</SimpleData>
+		<SimpleData name="TEL">2653-6033</SimpleData>
+		<SimpleData name="ADDRESS">南港區重陽路505號(堤防邊)</SimpleData>
+		<SimpleData name="P_NAME">南港</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.61242035711817,25.062127011781914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0033</SimpleData>
+		<SimpleData name="RIVER">淡水河</SimpleData>
+		<SimpleData name="SET_DATE">85/03/01</SimpleData>
+		<SimpleData name="WORKMAN">呂昆璋</SimpleData>
+		<SimpleData name="TEL">2381-5016</SimpleData>
+		<SimpleData name="ADDRESS">萬華區環河南路一段282號</SimpleData>
+		<SimpleData name="P_NAME">貴陽</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.49940691397292,25.041564429801632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0032</SimpleData>
+		<SimpleData name="RIVER">新店溪</SimpleData>
+		<SimpleData name="SET_DATE">87/12/01</SimpleData>
+		<SimpleData name="WORKMAN">宋乃光</SimpleData>
+		<SimpleData name="TEL">2306-3587</SimpleData>
+		<SimpleData name="ADDRESS">萬華區長順街64號</SimpleData>
+		<SimpleData name="P_NAME">雙園</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.4888085938634,25.030407704645803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0031</SimpleData>
+		<SimpleData name="RIVER">新店溪</SimpleData>
+		<SimpleData name="SET_DATE">77/01/01</SimpleData>
+		<SimpleData name="WORKMAN">陳大聯</SimpleData>
+		<SimpleData name="TEL">2368-0539</SimpleData>
+		<SimpleData name="ADDRESS">中正區水源路2號</SimpleData>
+		<SimpleData name="P_NAME">古亭</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.52306918871615,25.020008378741856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0030</SimpleData>
+		<SimpleData name="RIVER">新店溪</SimpleData>
+		<SimpleData name="SET_DATE">93/12/01</SimpleData>
+		<SimpleData name="WORKMAN">林義雄</SimpleData>
+		<SimpleData name="TEL">2932-0291</SimpleData>
+		<SimpleData name="ADDRESS">文山區溪州街82巷15號</SimpleData>
+		<SimpleData name="P_NAME">景美</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.53447127661576,25.009300171484536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0022</SimpleData>
+		<SimpleData name="RIVER">景美溪</SimpleData>
+		<SimpleData name="SET_DATE">73/06/01</SimpleData>
+		<SimpleData name="WORKMAN">江曙光</SimpleData>
+		<SimpleData name="TEL">2236-7091</SimpleData>
+		<SimpleData name="ADDRESS">文山區和興路2號</SimpleData>
+		<SimpleData name="P_NAME">埤腹</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.54541950693212,24.986435263038356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0023</SimpleData>
+		<SimpleData name="RIVER">景美溪</SimpleData>
+		<SimpleData name="SET_DATE">94/09/01</SimpleData>
+		<SimpleData name="WORKMAN">張清興</SimpleData>
+		<SimpleData name="TEL">2236-0479</SimpleData>
+		<SimpleData name="ADDRESS">文山區辛亥路七段21號</SimpleData>
+		<SimpleData name="P_NAME">中港</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.55343196771193,24.986489279735302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0024</SimpleData>
+		<SimpleData name="RIVER">景美溪</SimpleData>
+		<SimpleData name="SET_DATE">94/09/01</SimpleData>
+		<SimpleData name="WORKMAN">姜金堂</SimpleData>
+		<SimpleData name="TEL">2236-0264</SimpleData>
+		<SimpleData name="ADDRESS">文山區辛亥路七段66號</SimpleData>
+		<SimpleData name="P_NAME">實踐</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.55427164641262,24.983418108254039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0025</SimpleData>
+		<SimpleData name="RIVER">景美溪</SimpleData>
+		<SimpleData name="SET_DATE">90/07/01</SimpleData>
+		<SimpleData name="WORKMAN">陳永河</SimpleData>
+		<SimpleData name="TEL">2936-3284</SimpleData>
+		<SimpleData name="ADDRESS">文山區辛亥路七段101號</SimpleData>
+		<SimpleData name="P_NAME">保儀</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.55381042582803,24.980301464985697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0027</SimpleData>
+		<SimpleData name="RIVER">景美溪</SimpleData>
+		<SimpleData name="SET_DATE">76/01/01</SimpleData>
+		<SimpleData name="WORKMAN">梁景安</SimpleData>
+		<SimpleData name="TEL">2939-9285</SimpleData>
+		<SimpleData name="ADDRESS">文山區指南路2段2-1號</SimpleData>
+		<SimpleData name="P_NAME">道南</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.57325170242601,24.9878822729336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0021</SimpleData>
+		<SimpleData name="RIVER">景美溪</SimpleData>
+		<SimpleData name="SET_DATE">81/03/01</SimpleData>
+		<SimpleData name="WORKMAN">賴文方</SimpleData>
+		<SimpleData name="TEL">2239-0691</SimpleData>
+		<SimpleData name="ADDRESS">文山區木柵路四段75號</SimpleData>
+		<SimpleData name="P_NAME">萬芳</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.57159368131424,24.995179192328155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0051</SimpleData>
+		<SimpleData name="RIVER">景美溪</SimpleData>
+		<SimpleData name="SET_DATE">91/07/01</SimpleData>
+		<SimpleData name="WORKMAN">曾煥志</SimpleData>
+		<SimpleData name="TEL">29375457</SimpleData>
+		<SimpleData name="ADDRESS">文山區老泉路29號前150公尺</SimpleData>
+		<SimpleData name="P_NAME">老泉溪</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5599939029014,24.979156431594625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0052</SimpleData>
+		<SimpleData name="RIVER">景美溪</SimpleData>
+		<SimpleData name="SET_DATE">91/07/01</SimpleData>
+		<SimpleData name="WORKMAN">曾煥志</SimpleData>
+		<SimpleData name="TEL">22344113</SimpleData>
+		<SimpleData name="ADDRESS">文山區老泉路43號前100公尺</SimpleData>
+		<SimpleData name="P_NAME">無名溪</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.56624269029717,24.980115416393978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0054</SimpleData>
+		<SimpleData name="RIVER">大坑溪</SimpleData>
+		<SimpleData name="SET_DATE">92/07/01</SimpleData>
+		<SimpleData name="WORKMAN">郭俊成</SimpleData>
+		<SimpleData name="TEL">27893305</SimpleData>
+		<SimpleData name="ADDRESS">南港區南港路一段30巷大坑溪旁</SimpleData>
+		<SimpleData name="P_NAME">經貿</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.62088665002732,25.056295554756279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0056</SimpleData>
+		<SimpleData name="RIVER">大坑溪</SimpleData>
+		<SimpleData name="SET_DATE">93/07/01</SimpleData>
+		<SimpleData name="WORKMAN">委外管理站長文忠志</SimpleData>
+		<SimpleData name="TEL">26547163</SimpleData>
+		<SimpleData name="ADDRESS">南港區中央研究院路二段35巷底</SimpleData>
+		<SimpleData name="P_NAME">福山</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.61716541942349,25.046349262450342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0055</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">93/05/01</SimpleData>
+		<SimpleData name="WORKMAN">傅民龍</SimpleData>
+		<SimpleData name="TEL">26323715</SimpleData>
+		<SimpleData name="ADDRESS">內湖區東湖路160巷底</SimpleData>
+		<SimpleData name="P_NAME">康樂</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.61746824730022,25.066565165800739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0017</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">90/01/01</SimpleData>
+		<SimpleData name="WORKMAN">賈湖</SimpleData>
+		<SimpleData name="TEL">28126814</SimpleData>
+		<SimpleData name="ADDRESS">士林區通河西街1段2號</SimpleData>
+		<SimpleData name="P_NAME">大龍</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.51615975227668,25.078643530362626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0050</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">90/03/01</SimpleData>
+		<SimpleData name="WORKMAN">顏正林</SimpleData>
+		<SimpleData name="TEL">2880-2546</SimpleData>
+		<SimpleData name="ADDRESS">士林區通河東街一段192號</SimpleData>
+		<SimpleData name="P_NAME">大南</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.51534524395149,25.089470465367338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0053</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">96/10/09</SimpleData>
+		<SimpleData name="WORKMAN">高稚淵</SimpleData>
+		<SimpleData name="TEL">26329924</SimpleData>
+		<SimpleData name="ADDRESS">內湖區南湖大橋旁東側(內湖段)</SimpleData>
+		<SimpleData name="P_NAME">康寧</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.61184586504977,25.064714423008063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0057</SimpleData>
+		<SimpleData name="RIVER">四分溪</SimpleData>
+		<SimpleData name="SET_DATE">96/05/02</SimpleData>
+		<SimpleData name="WORKMAN">委外管理站長文忠志</SimpleData>
+		<SimpleData name="TEL">2783-4660</SimpleData>
+		<SimpleData name="ADDRESS">南港區研究院路一段130巷往前400公尺勤力橋旁</SimpleData>
+		<SimpleData name="P_NAME">勤力</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.61198760016801,25.047614057513076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0058</SimpleData>
+		<SimpleData name="RIVER">大坑溪</SimpleData>
+		<SimpleData name="SET_DATE">98/01/05</SimpleData>
+		<SimpleData name="WORKMAN">委外管理站長文忠志</SimpleData>
+		<SimpleData name="TEL">2782-7520</SimpleData>
+		<SimpleData name="ADDRESS">南港區富康街1巷誠正國中對面</SimpleData>
+		<SimpleData name="P_NAME">誠正</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.62068143693286,25.054303994095655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0060</SimpleData>
+		<SimpleData name="RIVER">磺溪</SimpleData>
+		<SimpleData name="SET_DATE">101/12/01</SimpleData>
+		<SimpleData name="WORKMAN">吳賢能</SimpleData>
+		<SimpleData name="TEL">2823-9302</SimpleData>
+		<SimpleData name="ADDRESS">士林區文林北路53巷土地公廟旁</SimpleData>
+		<SimpleData name="P_NAME">文林</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.51758649271888,25.102474146114169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0059</SimpleData>
+		<SimpleData name="RIVER">景美溪</SimpleData>
+		<SimpleData name="SET_DATE">99/12/01</SimpleData>
+		<SimpleData name="WORKMAN">曾煥志</SimpleData>
+		<SimpleData name="TEL">2937-5457</SimpleData>
+		<SimpleData name="ADDRESS">文山區木新路二段299巷底</SimpleData>
+		<SimpleData name="P_NAME">木新(由無名溪監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.56559126236553,24.981752901684708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0061</SimpleData>
+		<SimpleData name="RIVER">磺港溪</SimpleData>
+		<SimpleData name="SET_DATE">76/06/02</SimpleData>
+		<SimpleData name="WORKMAN">賴德勝</SimpleData>
+		<SimpleData name="TEL">2827-8720</SimpleData>
+		<SimpleData name="ADDRESS">北投區承德路七段397號</SimpleData>
+		<SimpleData name="P_NAME">北憲</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.50081277705343,25.117885640817025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0063</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">88/08/01</SimpleData>
+		<SimpleData name="WORKMAN">賴建忠</SimpleData>
+		<SimpleData name="TEL">2832-4297</SimpleData>
+		<SimpleData name="ADDRESS">北投區洲美街277號</SimpleData>
+		<SimpleData name="P_NAME">洲美一</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.49876228121715,25.110264157348396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0064</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">88/08/01</SimpleData>
+		<SimpleData name="WORKMAN">賴建忠</SimpleData>
+		<SimpleData name="TEL">2832-4328</SimpleData>
+		<SimpleData name="ADDRESS">北投區洲美街267號旁</SimpleData>
+		<SimpleData name="P_NAME">洲美二</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.49884875787427,25.106993176564437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0065</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">88/08/01</SimpleData>
+		<SimpleData name="WORKMAN">刑光中</SimpleData>
+		<SimpleData name="TEL">2892-6057</SimpleData>
+		<SimpleData name="ADDRESS">北投區承德路七段401巷36號斜對面</SimpleData>
+		<SimpleData name="P_NAME">大業(由下八仙監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.49535841908343,25.113572451248686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0066</SimpleData>
+		<SimpleData name="RIVER">磺港溪</SimpleData>
+		<SimpleData name="SET_DATE">88/08/01</SimpleData>
+		<SimpleData name="WORKMAN">賴德勝</SimpleData>
+		<SimpleData name="TEL">2827-8720</SimpleData>
+		<SimpleData name="ADDRESS">北投區承德路七段401巷口</SimpleData>
+		<SimpleData name="P_NAME">大業東(由北憲監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5005648016858,25.119676762001014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0067</SimpleData>
+		<SimpleData name="RIVER">四分溪</SimpleData>
+		<SimpleData name="SET_DATE">96/05/02</SimpleData>
+		<SimpleData name="WORKMAN">遠端監控站請電洽勤力站</SimpleData>
+		<SimpleData name="TEL">2783-4660</SimpleData>
+		<SimpleData name="ADDRESS">南港區研究院路二段2巷16號對面</SimpleData>
+		<SimpleData name="P_NAME">南深右(由勤力站監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.61468049297366,25.048423150389127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0068</SimpleData>
+		<SimpleData name="RIVER">四分溪</SimpleData>
+		<SimpleData name="SET_DATE">96/05/02</SimpleData>
+		<SimpleData name="WORKMAN">遠端監控站請電洽勤力站</SimpleData>
+		<SimpleData name="TEL">2783-4660</SimpleData>
+		<SimpleData name="ADDRESS">南港區研究院路一段130巷往前200公尺</SimpleData>
+		<SimpleData name="P_NAME">南深左(由勤力站監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.61352614534788,25.049139316416799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0069</SimpleData>
+		<SimpleData name="RIVER">大坑溪</SimpleData>
+		<SimpleData name="SET_DATE">98/01/05</SimpleData>
+		<SimpleData name="WORKMAN">遠端監控站請電洽誠正站</SimpleData>
+		<SimpleData name="TEL">2782-7520</SimpleData>
+		<SimpleData name="ADDRESS">研究院路一段130巷口斜對面</SimpleData>
+		<SimpleData name="P_NAME">大坑右(由誠正站監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.61634745440911,25.049025621170916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0070</SimpleData>
+		<SimpleData name="RIVER">大坑溪</SimpleData>
+		<SimpleData name="SET_DATE">98/01/05</SimpleData>
+		<SimpleData name="WORKMAN">遠端監控站請電洽誠正站</SimpleData>
+		<SimpleData name="TEL">2782-7520</SimpleData>
+		<SimpleData name="ADDRESS">研究院路一段151巷26號斜對面</SimpleData>
+		<SimpleData name="P_NAME">大坑左(由誠正站監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.61620659299066,25.049548200854506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0071</SimpleData>
+		<SimpleData name="RIVER">淡水河</SimpleData>
+		<SimpleData name="SET_DATE">88/09/01</SimpleData>
+		<SimpleData name="WORKMAN">遠端監控站請電洽社子島管理中心</SimpleData>
+		<SimpleData name="TEL">2810-9525</SimpleData>
+		<SimpleData name="P_NAME">社增一(由社子島管理中心監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.47686597599241,25.105140860753544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0072</SimpleData>
+		<SimpleData name="RIVER">淡水河</SimpleData>
+		<SimpleData name="SET_DATE">88/09/01</SimpleData>
+		<SimpleData name="WORKMAN">遠端監控站請電洽社子島管理中心</SimpleData>
+		<SimpleData name="TEL">2810-9525</SimpleData>
+		<SimpleData name="P_NAME">社增二(由社子島管理中心監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.48211987970934,25.103444662819243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0073</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">88/09/01</SimpleData>
+		<SimpleData name="WORKMAN">遠端監控站請電洽社子島管理中心</SimpleData>
+		<SimpleData name="TEL">2810-9525</SimpleData>
+		<SimpleData name="P_NAME">社增三(由社子島管理中心監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.49052031942661,25.11295972129766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0074</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">96/04/25</SimpleData>
+		<SimpleData name="WORKMAN">遠端監控站請電洽社子島管理中心</SimpleData>
+		<SimpleData name="TEL">2810-9525</SimpleData>
+		<SimpleData name="P_NAME">社增四(由社子島管理中心監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.49614603450286,25.101508495134926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0075</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">85/02/01</SimpleData>
+		<SimpleData name="WORKMAN">遠端監控站請電洽社子島管理中心</SimpleData>
+		<SimpleData name="TEL">2810-9525</SimpleData>
+		<SimpleData name="P_NAME">社臨一(由社子島管理中心監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.47471210022178,25.109679837410408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0076</SimpleData>
+		<SimpleData name="RIVER">淡水河</SimpleData>
+		<SimpleData name="SET_DATE">85/02/01</SimpleData>
+		<SimpleData name="WORKMAN">遠端監控站請電洽社子島管理中心</SimpleData>
+		<SimpleData name="TEL">2810-9525</SimpleData>
+		<SimpleData name="P_NAME">社臨七(由社子島管理中心監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.48305894305182,25.111705503467817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0077</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">96/04/25</SimpleData>
+		<SimpleData name="WORKMAN">遠端監控站請電洽社子島管理中心</SimpleData>
+		<SimpleData name="TEL">2810-9525</SimpleData>
+		<SimpleData name="P_NAME">社臨九(由社子島管理中心監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.49652738768489,25.097772678362556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0078</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">85/02/01</SimpleData>
+		<SimpleData name="WORKMAN">遠端監控站請電洽社子島管理中心</SimpleData>
+		<SimpleData name="TEL">2810-9525</SimpleData>
+		<SimpleData name="P_NAME">社臨二(由社子島管理中心監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.47803181361054,25.110039321532344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0079</SimpleData>
+		<SimpleData name="RIVER">淡水河</SimpleData>
+		<SimpleData name="SET_DATE">85/02/01</SimpleData>
+		<SimpleData name="WORKMAN">遠端監控站請電洽社子島管理中心</SimpleData>
+		<SimpleData name="TEL">2810-9525</SimpleData>
+		<SimpleData name="P_NAME">社臨八(由社子島管理中心監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.49119346091294,25.098587958439495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0080</SimpleData>
+		<SimpleData name="RIVER">淡水河</SimpleData>
+		<SimpleData name="SET_DATE">89/06/01</SimpleData>
+		<SimpleData name="WORKMAN">遠端監控站請電洽社子島管理中心</SimpleData>
+		<SimpleData name="TEL">2810-9525</SimpleData>
+		<SimpleData name="P_NAME">社臨十(由社子島管理中心監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.49678398766422,25.093609903599567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0081</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">85/02/01</SimpleData>
+		<SimpleData name="WORKMAN">遠端監控站請電洽社子島管理中心</SimpleData>
+		<SimpleData name="TEL">2810-9525</SimpleData>
+		<SimpleData name="P_NAME">社臨三(由社子島管理中心監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.48463396478907,25.112413228690642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0082</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">85/02/01</SimpleData>
+		<SimpleData name="WORKMAN">遠端監控站請電洽社子島管理中心</SimpleData>
+		<SimpleData name="TEL">2810-9525</SimpleData>
+		<SimpleData name="P_NAME">社臨五(由社子島管理中心監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.49625956468152,25.100990462402986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0083</SimpleData>
+		<SimpleData name="RIVER">淡水河</SimpleData>
+		<SimpleData name="SET_DATE">85/02/01</SimpleData>
+		<SimpleData name="WORKMAN">遠端監控站請電洽社子島管理中心</SimpleData>
+		<SimpleData name="TEL">2810-9525</SimpleData>
+		<SimpleData name="P_NAME">社臨六(由社子島管理中心監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.47047848249809,25.107201595466556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0084</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">85/02/01</SimpleData>
+		<SimpleData name="WORKMAN">遠端監控站請電洽社子島管理中心</SimpleData>
+		<SimpleData name="TEL">2810-9525</SimpleData>
+		<SimpleData name="P_NAME">社臨四(由社子島管理中心監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.49550319975057,25.109292785190192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0085</SimpleData>
+		<SimpleData name="RIVER">淡水河</SimpleData>
+		<SimpleData name="SET_DATE">72/12/01</SimpleData>
+		<SimpleData name="WORKMAN">遠端監控站請電洽社子島管理中心</SimpleData>
+		<SimpleData name="TEL">2810-9525</SimpleData>
+		<SimpleData name="P_NAME">中洲(由社子島管理中心監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.47491788511326,25.10565268115851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0086</SimpleData>
+		<SimpleData name="RIVER">景美溪</SimpleData>
+		<SimpleData name="SET_DATE">88/01/01</SimpleData>
+		<SimpleData name="WORKMAN">遠端監控站請電洽保儀站</SimpleData>
+		<SimpleData name="TEL">2936-3284</SimpleData>
+		<SimpleData name="P_NAME">樟新(由保儀站監管)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.55361031756793,24.98015474722963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OPENDATA_97_KML">
+		<SimpleData name="PUMP_ID">0062</SimpleData>
+		<SimpleData name="RIVER">基隆河</SimpleData>
+		<SimpleData name="SET_DATE">88/08/01</SimpleData>
+		<SimpleData name="WORKMAN">刑光中</SimpleData>
+		<SimpleData name="TEL">2892-6031</SimpleData>
+		<SimpleData name="ADDRESS">北投區承德路七段401巷551號</SimpleData>
+		<SimpleData name="P_NAME">八仙</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.49032671153188,25.115946538721289</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
